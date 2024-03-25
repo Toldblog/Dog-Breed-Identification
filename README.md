@@ -41,15 +41,6 @@ The dataset used for this project is provided by Kaggle and consists of a large 
 - Transfer learning with pre-trained models proves to be effective in achieving good performance with limited training data.
 - Further improvements can be made by experimenting with different architectures, hyperparameters, and data augmentation strategies.
 
-## Future Work
-- Explore advanced deep learning architectures and ensembling techniques to improve model performance.
-- Incorporate additional data sources such as breed attributes or textual descriptions to enhance breed identification accuracy.
-- Deploy the trained model as a web or mobile application for real-time dog breed identification.
+## Code and Documentation
+For the full project code and documentation, please visit [the GitHub repository](https://github.com/Toldblog/Dog-Breed-Identification).
 
-## Author
-- [Your Name]
-- [Your Email]
-- [Your GitHub Profile]
-
-## Acknowledgments
-- Mention any acknowledgments or references to datasets, libraries, or resources used in the project.
